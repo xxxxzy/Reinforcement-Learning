@@ -1,6 +1,7 @@
 # Reinforcement-Learning
 ## Assignment 1
 ### Markov decision process in grid world.
+Markov decision process (MDP) is a discrete-time stochastic control process.
 ## Assignment 3
 ### Markov decision process in maze.
 ### Majority Vote
